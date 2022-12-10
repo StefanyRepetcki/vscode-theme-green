@@ -2,7 +2,7 @@
   "name": "stefany",
   "displayName": "stefany-green-theme",
   "description": "Tema dark green para todas as pessoas que gostam da cor verde :)",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.74.0"
   },
@@ -17,6 +17,7 @@
   "keywords": [
     "green",
     "theme",
+    "verde",
     "dark-green",
     "dark"
   ],
