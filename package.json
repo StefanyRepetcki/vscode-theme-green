@@ -1,0 +1,32 @@
+{
+  "name": "stefany",
+  "displayName": "stefany-green-theme",
+  "description": "Tema dark green para todas as pessoas que gostam da cor verde :)",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "icon": "icon.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/StefanyRepetcki/vscode-theme-green"
+  },
+  "keywords": [
+    "green",
+    "theme",
+    "dark-green",
+    "dark"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "stefany-green-theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/green-theme-color-theme.json"
+      }
+    ]
+  }
+}
